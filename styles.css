@@ -32,7 +32,7 @@ p {
   margin: 0 15px 0 15px;
 }
 .main-section {
-  background-image: url("https://s3-alpha-sig.figma.com/img/791f/9ca1/801cf713555ea70ba295e8de05e15650?Expires=1711929600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=bXQG1B1Gd5zFB13jgZCyHEtkuwh8SkGPLBdg~ZI8VsHTJDnWiNNli-b1ABgZKd6nOVO762BByStZr4rvG2WLE-WwpfW7uIrb86xmTeE1S2dZYv4pBCvrZdf2xaJpg8j7amsKJjfFsL1Td7BG4-2XmagkxTGFkgWhcFhCsayUrYqYz-xkmDC-VdIu5oCWnnPlcTC3pDbsSI~5MlxBRpoPTzZya7EdS2U0WNSvgkB9Uojk5yQW8XBYnlMcs08~Giupp8DI2KdqNvo4RZ9eDSFGylqcpkK0Vwm0B0BOVe8Is565aSVpkDSgeAYbLsrpKVrL~Z3emMrhprNobyeekg4gzQ__");
+  background-image: url("asset/pizza_background.svg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -60,7 +60,12 @@ p {
 }
 #divider {
   background-color: rgb(255, 84, 84);
-  width: 50%;
+  width: 70%;
+  height: 8px;
+}
+#divider1{
+  background-color: rgb(255, 84, 84);
+  width: 30%;
   height: 8px;
 }
 .main-section-container > p {
